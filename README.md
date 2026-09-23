@@ -4,7 +4,7 @@
 <!-- 1. ANIMATED HERO & IDENTITY BANNER        -->
 <!-- ========================================== -->
 <a href="#-about-me">
-  <img src="./assets/hero.svg" alt="Sanjusri - AI Engineer &amp; Full Stack Developer" width="100%" />
+  <img src="./assets/hero.svg" alt="Sanjusri V- AI Engineer &amp; Full Stack Developer" width="100%" />
 </a>
 
 <br/>

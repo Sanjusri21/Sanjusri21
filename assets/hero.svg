@@ -203,7 +203,7 @@
   </g>
 
   <!-- Letter-by-Letter Animated Name: SANJUSRI -->
-  <g transform="translate(560, 126)" text-anchor="middle" filter="url(#softGlow)">
+  <g transform="translate(660, 126)" text-anchor="middle" filter="url(#softGlow)">
     <text y="0">
       <tspan class="letter l-1" dx="-158">S</tspan>
       <tspan class="letter l-2" dx="14">A</tspan>
